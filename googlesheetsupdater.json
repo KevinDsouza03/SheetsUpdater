@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "brilliant-lens-300802",
+  "private_key_id": "fe10875e790288c0adcedada6750e3e7c91ae103",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCceNlNas3icRuF\nK+IEmsrP0JYEw0gEDOlrRq+jPPag7nxqg3M9dBv/cwqGxeJzd9003gx2UsEE1agK\njCv0IWqZmo/g/MYTRg6VwFutBf2JKJ8QXivu/bqqr2qFAr3Rwvoani8YZCN9cUJ2\nPKuQ9+DSK8El9fXIe91ReYwmx4kdtLDthQ56DgMa1+UdRKyB4h3FFY1bKWgerLRc\nkuaOTlOVmNUJPuyhCFoJDHzhEXy5s1e/g6Xo5hfRY0I7awJLkSXWpdkXNJ+lkVkO\n1a9xzbc801CsqMrT5dxaqwcy0C23ngyd9/nM0S02I7vAjlQVdOWe5DvUK7Hh4zat\nLqXJxITTAgMBAAECggEANO8hPHKEYjW3hK7a0In5UKKVDdlulIg1syf/pS6rlLf5\neSMtKj4MdrfZeMybFksXl5oDB0hpqhQJvD+9YuKnKH3EbO22qLCLoJepq/gZ1Hvc\ni/H/1OMbckDTvVm3E65tY/HdptfBtd9KB6vwsqNY+GD6/7ecxY05yyVeh4P7XAPL\n17LA34zxyIUhuSsWqi7DfbNJU8Ga2KSmyEdQwQE9Fx4jrMN2ZAdNyz2CWicrpCJR\nn2YeP3TjW8M8K0CA3r7joNkoh5LFv3AYeQ3haCyYgZt5JqNG/KMW5GUlgWq32sXm\neQ2bGDInTC9uR/ae/1XjKEsA+I8BAom6SAMLxYw/uQKBgQDbRyUU6YgYYfjAic0R\np7I2nN+95aMQw9W4CTRJ7KPZCWkc+Epgiaz8EB3sMjpIKfZ+whZBWYQ/QiFTefz3\n10RLvzusaoNteHcgjlULq6RkhjHrtWx9xdrXIKu3AoXTihqnOovIa2ZjEGzpvlii\n0WDaJWpCO2Fbf8tiDrldypq/rQKBgQC2rRmFubNQdy8WvV8+U32sVVBYHN7ioJNa\nKnJ+px2zhqoaniJW3gIl/+oCS0Slgcc+DJdMr8TWUta8EmYDuEE7USZ464OJd1Zh\nLdAn7KhltIpuVCtX5ertH4gzEreLo0evh5vbCYhye0QiTJsPhX2/loyJ9SnhDUBo\nTZ3S6zLmfwKBgQDKtLIq6tfM8oSqOLlCIOw2YD7VpXtg/CiNwLR9wiyVboWlKkJX\ni+5F9gAzYRtPqrsb4v//2WjPsaptKNAZrP6Np3LaqHxmrn4xsmIcL8gAxa1QYJ6y\nhj0PsjwLKmHcdEa/YPfnhqFX4s9MJZJ6sWP/Rac9IveVRkYVl9b0RV9Y4QKBgDIP\nrfbftSxP/S+WJgvGhaI8nxAGmW4x4y/KgiYDVjhkpyk0POThYmVXhKGsTtusfRWc\nDbqOULsLaJ2RzTMnw3il/I0Wva1mbt2i2HCYgm2c1HL3zgkAkSj6gzC76GD0Fikc\nWLHmIuZ8sWdU5wmR46wlbc5AyYFLSGNNIfszSXexAoGBANV7aue1IbKt27Uod8IA\nHSPm00HvK4BGhRAiVnoR9QJNFZA7gWSSyU544ULRfo9N4MDnUOsk/FkIdSxL3gX+\ng8UbZiXf8GvrFp8j7IHF/UuFwLNfiKsVkkoBKPBY5Wi+bfXgkkU59Xur9MfJUEMp\n8jBNHN8Pnw5+j7RHF0F45sl0\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheetsupdater@brilliant-lens-300802.iam.gserviceaccount.com",
+  "client_id": "104399893017267218460",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheetsupdater%40brilliant-lens-300802.iam.gserviceaccount.com"
+}
